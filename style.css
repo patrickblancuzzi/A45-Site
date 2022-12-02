@@ -1,0 +1,26 @@
+body{
+    margin:0;
+    font-family: 'Poppins', sans-serif;
+    color: yellow;
+    background: #161616;
+}
+
+nav{
+    justify-content: center;
+    display: flex;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+    padding-left: 10px;
+}
+
+.navLink{
+    color: white;
+    text-decoration: none;
+}
+
+.navLink:hover{
+    color: gray;
+}
